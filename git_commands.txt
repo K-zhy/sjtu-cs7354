@@ -1,0 +1,69 @@
+2a2c798 HEAD@{0}: merge documentation: Merge made by the 'ort' strategy.
+9e47b38 HEAD@{1}: checkout: moving from documentation to main
+4020c7f HEAD@{2}: rebase (finish): returning to refs/heads/documentation
+4020c7f HEAD@{3}: rebase (squash): Update project overview with new feature description and Fix description in project overview
+5695bd4 HEAD@{4}: rebase (start): checkout HEAD~2
+d3f9bca HEAD@{5}: rebase (finish): returning to refs/heads/documentation
+d3f9bca HEAD@{6}: rebase (pick): Fix description in project overview
+5695bd4 HEAD@{7}: rebase (pick): Update project overview with new feature description
+dbf556e HEAD@{8}: rebase (pick): Add installation guide
+62517aa HEAD@{9}: rebase (pick): Add contributing guide
+bf1ad18 HEAD@{10}: rebase (start): checkout HEAD~4
+01d9643 HEAD@{11}: rebase (finish): returning to refs/heads/documentation
+01d9643 HEAD@{12}: rebase (start): checkout HEAD~4
+01d9643 HEAD@{13}: rebase (finish): returning to refs/heads/documentation
+01d9643 HEAD@{14}: rebase (pick): Fix description in project overview
+a4b405c HEAD@{15}: rebase (pick): Update project overview with new feature description
+0b135a0 HEAD@{16}: rebase (pick): Add contributing guide
+faa99c6 HEAD@{17}: rebase (pick): Add installation guide
+bf1ad18 HEAD@{18}: rebase (start): checkout HEAD~4
+1326dd3 HEAD@{19}: rebase (finish): returning to refs/heads/documentation
+1326dd3 HEAD@{20}: rebase (start): checkout HEAD~4
+1326dd3 HEAD@{21}: checkout: moving from 693104270d4d5a05f06751436c4cec16ff4b878d to documentation
+6931042 HEAD@{22}: commit: 更改
+f996aa7 HEAD@{23}: rebase (continue): Fix description in project overview
+4807cd5 HEAD@{24}: rebase (pick): Add contributing guide
+348f714 HEAD@{25}: rebase (pick): Add installation guide
+bf1ad18 HEAD@{26}: rebase (start): checkout HEAD~4
+1326dd3 HEAD@{27}: rebase (finish): returning to refs/heads/documentation
+1326dd3 HEAD@{28}: rebase (start): checkout HEAD~2
+1326dd3 HEAD@{29}: rebase (finish): returning to refs/heads/documentation
+1326dd3 HEAD@{30}: rebase (pick): Add contributing guide
+2e307fa HEAD@{31}: rebase (pick): Add installation guide
+4abdda9 HEAD@{32}: rebase (pick): Fix description in project overview
+f2bf84a HEAD@{33}: rebase (pick): Update project overview with new feature description
+bf1ad18 HEAD@{34}: rebase (start): checkout HEAD~4
+9caa536 HEAD@{35}: checkout: moving from main to documentation
+9e47b38 HEAD@{36}: checkout: moving from feature-upload to main
+443d2ab HEAD@{37}: checkout: moving from main to feature-upload
+9e47b38 HEAD@{38}: commit (merge): 解决冲突
+53ceb26 HEAD@{39}: checkout: moving from feature-upload to main
+443d2ab HEAD@{40}: checkout: moving from main to feature-upload
+53ceb26 HEAD@{41}: commit: change styles.css
+e10aa4b HEAD@{42}: checkout: moving from dev to main
+4e71ad9 HEAD@{43}: revert: Revert "Some content was added repeatedly"
+86d092a HEAD@{44}: revert: Revert "Mistakenly added irrelevant content"
+7e98124 HEAD@{45}: checkout: moving from main to dev
+e10aa4b HEAD@{46}: cherry-pick: Added new approach details.
+24d8a55 HEAD@{47}: checkout: moving from experiment to main
+decdde7 HEAD@{48}: checkout: moving from main to experiment
+24d8a55 HEAD@{49}: checkout: moving from feature-newFunc to main
+24d8a55 HEAD@{50}: checkout: moving from main to feature-newFunc
+24d8a55 HEAD@{51}: merge feature-newFunc: Fast-forward
+9717238 HEAD@{52}: checkout: moving from feature-newFunc to main
+24d8a55 HEAD@{53}: rebase (finish): returning to refs/heads/feature-newFunc
+24d8a55 HEAD@{54}: rebase (squash): Added diary entry for feature work and Added another diary entry for
+b8be0d5 HEAD@{55}: rebase: fast-forward
+9717238 HEAD@{56}: rebase (start): checkout HEAD~2
+bfdce3b HEAD@{57}: checkout: moving from main to feature-newFunc
+9717238 HEAD@{58}: reset: moving to 9717238
+bfdce3b HEAD@{59}: checkout: moving from feature-newFunc to main
+bfdce3b HEAD@{60}: checkout: moving from main to feature-newFunc
+bfdce3b HEAD@{61}: merge bfdce3b: Fast-forward
+9717238 HEAD@{62}: checkout: moving from feature-newFunc to main
+bfdce3b HEAD@{63}: checkout: moving from main to feature-newFunc
+9717238 HEAD@{64}: checkout: moving from feature-newFunc to main
+bfdce3b HEAD@{65}: commit: Added another diary entry for feature work
+b8be0d5 HEAD@{66}: commit: Added diary entry for feature work
+9717238 HEAD@{67}: checkout: moving from main to feature-newFunc
+9717238 HEAD@{68}: clone: from https://github.com/K-zhy/sjtu-cs7354.git
